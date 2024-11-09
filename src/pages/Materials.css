@@ -1,0 +1,29 @@
+/* src/pages/Materials.css */
+.container {
+    padding: 1.5rem;
+}
+
+.materials-form {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.materials-form input {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.materials-form button {
+    background-color: #0077b6;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.materials-form button:hover {
+    background-color: #005f8a;
+}

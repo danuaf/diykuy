@@ -1,0 +1,10 @@
+/* src/pages/ProjectSuggestions.css */
+.container {
+    padding: 1.5rem;
+}
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}

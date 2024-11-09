@@ -1,0 +1,25 @@
+/* src/components/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #0077b6;
+    padding: 0.5rem 0;
+}
+
+.navbar a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.navbar .icon {
+    font-size: 1.5rem;
+}
+
+.navbar .active {
+    color: #ffdd99;
+}

@@ -1,0 +1,40 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "DIY Bookshelf",
+            "shortDescription": "Create a beautiful bookshelf from scratch",
+            "description": "This project involves building a bookshelf using wooden planks and screws.",
+            "materials": [
+                "Wood planks",
+                "Screws",
+                "Hammer",
+                "Nails"
+            ],
+            "steps": [
+                "Cut the wooden planks to the desired size.",
+                "Assemble the frame using screws.",
+                "Attach the shelves to the frame.",
+                "Sand and paint the bookshelf as desired."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "DIY Coffee Table",
+            "shortDescription": "Build a stylish coffee table",
+            "description": "This project guides you through creating a coffee table using reclaimed wood.",
+            "materials": [
+                "Wood",
+                "Saw",
+                "Sandpaper",
+                "Wood varnish"
+            ],
+            "steps": [
+                "Cut the wood to create the tabletop and legs.",
+                "Assemble the tabletop and attach the legs.",
+                "Sand the entire table.",
+                "Apply varnish to finish."
+            ]
+        }
+    ]
+}
